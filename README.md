@@ -1,4 +1,4 @@
-# Thiekshana Soysa - Portfolio Website
+# Portfolio Website of Thiek
 
 A modern, responsive portfolio website showcasing professional experience, projects, and skills.
 
